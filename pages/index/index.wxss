@@ -1,5 +1,5 @@
 /**index.wxss**/
-/*默认750rpx 自动适配*/
+/*默认750rpx 自动适配啊*/
 #first{
   width: 100rpx;
   height: 100rpx;
