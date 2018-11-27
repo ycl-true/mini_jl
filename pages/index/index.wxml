@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view id='first'>
+</view>
+<view id = 'ss'></view>
+<view id='two'>
+</view>

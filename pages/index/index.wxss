@@ -1,0 +1,23 @@
+/**index.wxss**/
+/*默认750rpx 适配*/
+#first{
+  width: 100rpx;
+  height: 100rpx;
+  background: #ff0;
+  margin-top: 100rpx;
+  margin-left: 200rpx;
+}
+
+#ss{
+  width: 100rpx;
+  height: 100rpx;
+  background: #ff0;
+  margin-top: 100rpx;
+  margin-left: 200rpx;
+  float: left;
+}
+#two{
+  width: 750rpx;
+  height: 10rpx;
+  background-color: #000000;
+}
